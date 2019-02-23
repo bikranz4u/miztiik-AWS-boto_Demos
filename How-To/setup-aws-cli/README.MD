@@ -46,3 +46,6 @@ AWS Secret Access Key [None]: 2pM59CQnGpUfxm6PD0JFRz/lzwFUHbNBXG4I5yZb
 Default region name [None]: ap-south-1
 Default output format [None]: json
 ```
+
+#Install Boto3
+pip install boto3
