@@ -48,4 +48,7 @@ Default output format [None]: json
 ```
 
 #Install Boto3
+```
 pip install boto3
+
+```
